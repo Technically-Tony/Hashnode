@@ -1,2 +1,2 @@
 # Hashnode
-Blog
+I keep a pesronal technical blog
