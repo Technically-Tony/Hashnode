@@ -1,2 +1,2 @@
 # Hashnode
-I keep a pesronal technical blog
+I keep a personal technical blog
