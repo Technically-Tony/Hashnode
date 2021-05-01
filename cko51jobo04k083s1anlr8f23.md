@@ -1,4 +1,4 @@
-## Obsidian: Helping study Data Science
+## Obsidian: My Data Science Sidekick
 
 Early this year I recovered a personal Yahoo! mail account that I used 10 years ago while in university. 
 This little recovery windfall happened to be a primary account address on my iPhone 4S back then; I had enabled a sync between Apple Notes such that all notes would save locally on the hardware but also to this Yahoo! account. In a lot of ways felt like finding an old diary, the reunion was an absolute delight. Not necessarily because said notes were immediately useful to me, but because like the diary, they showed me what I was thinking at that particular time as well as bringing back tons of nostalgia. From old addresses of places I lived, personal plans, class assignments, groceries lists, annotations on books I was reading then, names of buildings I was going to for interviews, tweet drafts lol.
@@ -16,7 +16,7 @@ Unlike the conventional developer archetype UI, its text editor is geared for pl
 
 
 #### 2. Custom Themes & Cool Plug-Ins
-Obsidian (currently a desktop application, though I have heard rumors of a mobile app in beta testing) has about 18 core plug-ins and a bunch of themes ready for use. However it has essentially been engineered to be flexible enough to allow custom themes and third-party plug-ins from developers which are then accessible through Community plugins on the settings so that really, you could make your plain text notes look pretty much however you would like them to. You could also fully customize the color scheme with your own [custom CSS](https://help.obsidian.md/How+to/Add+custom+styles). I'm currently using [**Cybertron**](https://forum.obsidian.md/t/cybertron-theme-cyber-lyt/1227) by [Nick Milo](https://github.com/nickmilo/Cybertron).
+Obsidian (currently a desktop application, though I have heard rumors of a mobile app in beta testing) has about 18 core plug-ins and a bunch of themes ready for use. However it has essentially been engineered to be flexible enough to allow custom themes and third-party plug-ins from developers which are then accessible through Community plugins on the settings so that really, you could make your plain text notes look pretty much however you would like them to. You could also fully customize the color scheme with your own [custom CSS](https://help.obsidian.md/How+to/Add+custom+styles). I'm currently using a theme named [**Cybertron**](https://forum.obsidian.md/t/cybertron-theme-cyber-lyt/1227) created by [Nick Milo](https://github.com/nickmilo/Cybertron).
 
 ![Theme.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1619822620575/z316opaJ0.png)
 
