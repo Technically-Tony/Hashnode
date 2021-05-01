@@ -1,9 +1,9 @@
 ## Obsidian: My Data Science Study Sidekick
 
 Early this year I recovered a personal Yahoo! mail account that I used 10 years ago while in university. 
-This little recovery windfall happened to be a primary account address on my iPhone 4S back then; I had enabled a sync between Apple Notes such that all notes would save locally on the hardware but also to this Yahoo! account. In a lot of ways felt like finding an old diary, the reunion was an absolute delight. Not necessarily because said notes were immediately useful to me, but because like the diary, they showed me what I was thinking at that particular time as well as bringing back tons of nostalgia. From old addresses of places I lived, personal plans, class assignments, groceries lists, annotations on books I was reading then, names of buildings I was going to for interviews, tweet drafts lol.
+This little recovery windfall also happened to be a primary account address on a previously owned iPhone 4S, back then; I happened to have enabled a sync between Apple Notes such that all notes would save locally on the hardware but also to this Yahoo! account. In a lot of ways felt like finding an old diary, the reunion was an absolute delight. Not necessarily because said notes were immediately useful to me, but because like the diary, they showed me what I was thinking at that particular time as well as bringing back tons of nostalgia. From old addresses of places I lived, personal plans, class assignments, groceries lists, annotations on books I was reading then, names of buildings I was going to for interviews, tweet drafts lol.
 
-Made me look forward to having a repeat experience in another 10 years hopefully. Except this time I plan for it to be slightly more organized thanks to [Obsidian](https://obsidian.md/). Basically, I plan to *know what I know*, *know where what I know is*, *know how to get to what I know* and *know how to use what I know*. Possibly, FOR EVERYTHING.
+Made me look forward to having a repeat experience in another 10 years hopefully. Except this time I plan for it to be slightly more organized thanks to [Obsidian](https://obsidian.md/). Basically, I plan to *know what I know*, *know where what I know is*, *know how to get to what I know* and *know how to use what I know*. Essentially, FOR EVERYTHING, if possible.
 
 
 ## Why Obsidian?
