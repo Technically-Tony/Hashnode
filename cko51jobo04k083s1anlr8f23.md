@@ -1,4 +1,4 @@
-## Obsidian: My Data Science Sidekick
+## Obsidian: My Data Science Study Sidekick
 
 Early this year I recovered a personal Yahoo! mail account that I used 10 years ago while in university. 
 This little recovery windfall happened to be a primary account address on my iPhone 4S back then; I had enabled a sync between Apple Notes such that all notes would save locally on the hardware but also to this Yahoo! account. In a lot of ways felt like finding an old diary, the reunion was an absolute delight. Not necessarily because said notes were immediately useful to me, but because like the diary, they showed me what I was thinking at that particular time as well as bringing back tons of nostalgia. From old addresses of places I lived, personal plans, class assignments, groceries lists, annotations on books I was reading then, names of buildings I was going to for interviews, tweet drafts lol.
