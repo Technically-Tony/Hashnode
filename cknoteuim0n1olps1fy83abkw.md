@@ -1,4 +1,7 @@
-## How I added Spotify ‘Now Playing’ to my GitHub Profile Readme, in 7 Easy Steps
+## Add Spotify ‘Now Playing’ to Your GitHub Profile Readme, in 7 Easy Steps
+
+<sub>Cover photo by [Alexander Shatov, Unsplash](https://unsplash.com/@alexbemore)</sub>
+
 
 GitHub’s profile readme feature is a personal favorite.
 It supports markdown making it flexible to experiment with media, check out an impressive one [here](https://github.com/WJimmyCook). Found out you can make it even niftier and, in this post I'd like to show you how to spruce up your profile even more by adding and displaying your currently playing track on Spotify to your GitHub profile readme.
